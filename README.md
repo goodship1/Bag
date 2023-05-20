@@ -8,7 +8,7 @@ The Bag module provides the following functions:
 
     empty: Returns an empty bag.
 
-    - is_empty: Checks if the bag is empty.
+    is_empty: Checks if the bag is empty.
 
     add: Adds an element to the bag.
 
